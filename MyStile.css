@@ -1,0 +1,37 @@
+table {
+    padding: 3px;
+    border: 1px solid black;
+}
+
+.stripy {
+    border-collapse: collapse;
+}
+
+.BlackCell{
+    width: 40px;
+    height: 40px;
+    padding: 3px;
+    border: 1px solid black;
+    background: black;
+}
+.WhileCell{
+    width: 40px;
+    height: 40px;
+    padding: 3px;
+    border: 1px solid black;
+}
+
+.GreenCell{
+    width: 40px;
+    height: 40px;
+    padding: 3px;
+    border: 1px solid black;
+    background: green;
+}
+.BlueCell{
+    width: 40px;
+    height: 40px;
+    padding: 3px;
+    border: 1px solid black;
+    background: blue;
+}
